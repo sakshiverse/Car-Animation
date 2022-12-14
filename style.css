@@ -41,6 +41,17 @@ body{
   bottom: 30vh;
   animation: shake linear 3s infinite;
 }
+.car2{
+  background-image: url(blue_car.png);
+  left: 95px;
+  bottom: 15vh;
+}
+
+.car3{
+  background-image: url(red_car.png);
+  left: 956px;
+  bottom: 19vh;
+ }
 
 .wheel1 img{
   width: 77px;
